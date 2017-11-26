@@ -1,4 +1,4 @@
-# beginWithSpring
+# beginWithSpringMVC
 
 The aim of Spring is to serialize your beans if needed. 
 Spring handle the lifecycle of your beans.
@@ -9,9 +9,9 @@ src/main/webapp/WEB-INF/spring-servlet.xml
 
 inside of it : <context:component-scan base-package="packagelevel_0.packagelevel_1.packagelevel_2" />
 
-The first java file of your project should be here :
+So if you want that Spring handle the instantation of your beans, they should be here :
 
-packagelevel_0.packagelevel_1.packagelevel_2.packagelevel_3.FirstJavaFile.java
+packagelevel_0.packagelevel_1.packagelevel_2.packagelevel_3.MyBeanEntity.java
 
 
 
