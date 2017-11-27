@@ -11,7 +11,7 @@ inside of it : <context:component-scan base-package="packagelevel_0.packagelevel
 
 So if you want that Spring handle the instantation of your beans, they should be here :
 
-packagelevel_0.packagelevel_1.packagelevel_2.packagelevel_3.MyBeanEntity.java
+src.main.java.packagelevel_0.packagelevel_1.packagelevel_2.packagelevel_3.MyBeanEntity.java
 
 
 
@@ -37,7 +37,7 @@ And select : Pivotal tc Server Developer Edition (For me, version : 3.2.8)
 
 ##########################################################################
 
-WINDOWS INSTALLATION
+WINDOWS INSTALLATION AND USAGE
 
 ##########################################################################
 
@@ -68,7 +68,7 @@ Put your war files in webapps. The server will unzip it and start it. Stop serve
 
 ##########################################################################
 
-LINUX INSTALLATION
+LINUX INSTALLATION AND USAGE
 
 ##########################################################################
 
