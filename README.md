@@ -114,7 +114,7 @@ Download Eclipse STS (spring tool suite) by searching in google : spring sts dow
 
 or download here : https://spring.io/tools/sts/all
 
-Spring boot : instead of doing " new > new Java Project " as usual, do instead " new > new spring starter project "
+Spring boot : instead of doing " new > new Java Project / new Maven project" as usual, do instead " new > new spring starter project "
 
 you should see this : http://www.bogotobogo.com/Java/tutorials/images/Spring-Boot/Tomcat-War/Spring-Starter-Project-WebCheckBox.png
 
