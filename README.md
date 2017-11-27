@@ -116,8 +116,7 @@ or download here : https://spring.io/tools/sts/all
 
 Spring boot : instead of doing " new > new Java Project / new Maven project" as usual, do instead " new > new spring starter project "
 
-you should see this : http://www.bogotobogo.com/Java/tutorials/images/Spring-Boot/Tomcat-War/Spring-Starter-Project-WebCheckBox.png
-
+you should see the image below
 
 It will create a maven project with basic dependencies for this kind of project
 
